@@ -39,4 +39,4 @@ Source synthesis.tcl
 source SCRIPTS/synthesis.tcl
 ```
 
-Results are in RPT/
+5. Results are in RPT/
