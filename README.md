@@ -15,7 +15,8 @@ source setup_env.sh
 ## Synthesizing your design
 
 1. PDK
-  define your PDK using the design_compiler/.synopsys_dc.setup
+
+define your PDK using the design_compiler/.synopsys_dc.setup
  
  *note 1. This file is hidden
  *note 2. This needs to be a .db file. Use lc_shell to convert from .lib if necessary
