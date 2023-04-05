@@ -38,3 +38,5 @@ Source synthesis.tcl
 ```sh
 source SCRIPTS/synthesis.tcl
 ```
+
+Results are in RPT/
