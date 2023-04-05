@@ -16,9 +16,11 @@ source setup_env.sh
 
 1. Define your PDK using the design_compiler/.synopsys_dc.setup
  
- *note 1. This file is hidden
- *note 2. This needs to be a .db file. Use lc_shell to convert from .lib if necessary
- *note 3. If there are multiple .db files use the following format: 
+*note 1. This file is hidden
+
+*note 2. This needs to be a .db file. Use lc_shell to convert from .lib if necessary
+
+*note 3. If there are multiple .db files use the following format: 
         set link_library "<00.db> <01.db>"
 
 2. Define HDL in design_compiler/HDL/RTL
