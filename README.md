@@ -27,10 +27,14 @@ source setup_env.sh
 
 3. Set 'design' variable to top level verilog module
 
-4. Open DesignCompiler and source synthesis.tcl
+4. 
+ 
+Open DesignCompiler
 ```sh
 design_vision
 ```
+
+Source synthesis.tcl
 ```sh
 source SCRIPTS/synthesis.tcl
 ```
