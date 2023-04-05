@@ -21,7 +21,7 @@ source setup_env.sh
 *note 2. This needs to be a .db file. Use lc_shell to convert from .lib if necessary
 
 *note 3. If there are multiple .db files use the following format: 
-        set link_library "<00.db> <01.db>"
+        set link_library "<*.db> <*.db>"
 
 2. Define HDL in design_compiler/HDL/RTL
 
